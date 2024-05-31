@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "edu.odu.cs",
+    "module": "cowem-plugin",
+    "version": "1.22.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "cowem-plugin-1.22.2.jar",
+          "url": "cowem-plugin-1.22.2.jar",
+          "size": 1610865,
+          "sha512": "e28f299766a24261f4882673911c1d0e6d9d578a3e3baed913a24b6f682fec5a94dfb4aea9bb917fb943cf3f03393e74352934619221d0a50eaf1ad68996dd9a",
+          "sha256": "3c74ce58d1b5b9d49715d1cda940106a9be5f58fa68d6f42819de06b4ffaabf8",
+          "sha1": "c3e3ac8e9aaef85b6d9836255c5a64b111ea0461",
+          "md5": "e18fd4ed09088e54f626b0f9ac3e9b73"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.hidetake",
+          "module": "gradle-ssh-plugin",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.pegdown",
+          "module": "pegdown",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.6"
+          }
+        },
+        {
+          "group": "net.sf.saxon",
+          "module": "Saxon-HE",
+          "version": {
+            "requires": "11.4"
+          }
+        },
+        {
+          "group": "org.eclipse.jgit",
+          "module": "org.eclipse.jgit",
+          "version": {
+            "requires": "6.4.0.202211300538-r"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cowem-plugin-1.22.2.jar",
+          "url": "cowem-plugin-1.22.2.jar",
+          "size": 1610865,
+          "sha512": "e28f299766a24261f4882673911c1d0e6d9d578a3e3baed913a24b6f682fec5a94dfb4aea9bb917fb943cf3f03393e74352934619221d0a50eaf1ad68996dd9a",
+          "sha256": "3c74ce58d1b5b9d49715d1cda940106a9be5f58fa68d6f42819de06b4ffaabf8",
+          "sha1": "c3e3ac8e9aaef85b6d9836255c5a64b111ea0461",
+          "md5": "e18fd4ed09088e54f626b0f9ac3e9b73"
+        }
+      ]
+    }
+  ]
+}
