@@ -3,11 +3,12 @@
   <groupId>edu.odu.cs</groupId>
   <artifactId>cowem-plugin</artifactId>
   <versioning>
-    <latest>1.22.2</latest>
-    <release>1.22.2</release>
+    <latest>1.22.3</latest>
+    <release>1.22.3</release>
     <versions>
       <version>1.22.2</version>
+      <version>1.22.3</version>
     </versions>
-    <lastUpdated>20240531183428</lastUpdated>
+    <lastUpdated>20240531235753</lastUpdated>
   </versioning>
 </metadata>
