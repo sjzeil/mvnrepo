@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "edu.odu.cs.algae",
+    "module": "algae-client-server",
+    "version": "4.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "algae-client-server-4.6.jar",
+          "url": "algae-client-server-4.6.jar",
+          "size": 312812,
+          "sha512": "cb840aec479a9ecc732bdf8e167140978d86265ccbf7833a7f01f0568eb03742072923543899fcff357861c245e9364e14c93ba95c574506783d1b40ef0910bb",
+          "sha256": "ba75077a62b2cb94b29d84d425976ddb49a9dbf7357003b593ec9f650899fcfb",
+          "sha1": "6c6d1660afa0b9dd2722add627887c922a664998",
+          "md5": "3b36951c8e982870011996b8bd98ffeb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "javax.help",
+          "module": "javahelp",
+          "version": {
+            "requires": "2.0.05"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "algae-client-server-4.6.jar",
+          "url": "algae-client-server-4.6.jar",
+          "size": 312812,
+          "sha512": "cb840aec479a9ecc732bdf8e167140978d86265ccbf7833a7f01f0568eb03742072923543899fcff357861c245e9364e14c93ba95c574506783d1b40ef0910bb",
+          "sha256": "ba75077a62b2cb94b29d84d425976ddb49a9dbf7357003b593ec9f650899fcfb",
+          "sha1": "6c6d1660afa0b9dd2722add627887c922a664998",
+          "md5": "3b36951c8e982870011996b8bd98ffeb"
+        }
+      ]
+    }
+  ]
+}
