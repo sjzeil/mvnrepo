@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.6"
+      "version": "8.8"
     }
   },
   "variants": [
@@ -27,11 +27,11 @@
         {
           "name": "code-grader-1.2.1.jar",
           "url": "code-grader-1.2.1.jar",
-          "size": 119070,
-          "sha512": "0f3cb64ced97c652e2ae8b953e3b0c6caa701ac78fde002313c4fc7929f79b7e9808127611ed57f3206d1ab80bd61357b3471dfbd07bf2c839386b15ef15782a",
-          "sha256": "1423d19b3b27f68fcc4d898c16b96040716dea573596ed62732a43e8b1553158",
-          "sha1": "b7104e3a6900041b8d86c7d6a0d9e4a94f7c66b9",
-          "md5": "dd1c2388d7f09c562c3be8e58d70ada4"
+          "size": 120303,
+          "sha512": "2ab01a2f0f4c894c112633b6aad5d2e4c803f586c3287f33466c2ee2976905c767444739b66c0a4fab889706c967b3cac47fb7aa5f9094fee9a5a0abd53f5105",
+          "sha256": "6e8ec1ac8d97ec19ff061b6e277795a33be5a408d5abc72990141f6b957189a8",
+          "sha1": "ccf10a742f79f2bcc545a61189624ab579b22245",
+          "md5": "2c28619e400440733643e51db7a8e40d"
         }
       ]
     },
@@ -56,21 +56,21 @@
           "group": "org.apache.logging.log4j",
           "module": "log4j-slf4j-impl",
           "version": {
-            "requires": "2.13.3"
+            "requires": "2.23.1"
           }
         },
         {
           "group": "org.apache.logging.log4j",
           "module": "log4j-api",
           "version": {
-            "requires": "2.13.3"
+            "requires": "2.23.1"
           }
         },
         {
           "group": "org.apache.logging.log4j",
           "module": "log4j-core",
           "version": {
-            "requires": "2.13.3"
+            "requires": "2.23.1"
           }
         },
         {
@@ -106,11 +106,11 @@
         {
           "name": "code-grader-1.2.1.jar",
           "url": "code-grader-1.2.1.jar",
-          "size": 119070,
-          "sha512": "0f3cb64ced97c652e2ae8b953e3b0c6caa701ac78fde002313c4fc7929f79b7e9808127611ed57f3206d1ab80bd61357b3471dfbd07bf2c839386b15ef15782a",
-          "sha256": "1423d19b3b27f68fcc4d898c16b96040716dea573596ed62732a43e8b1553158",
-          "sha1": "b7104e3a6900041b8d86c7d6a0d9e4a94f7c66b9",
-          "md5": "dd1c2388d7f09c562c3be8e58d70ada4"
+          "size": 120303,
+          "sha512": "2ab01a2f0f4c894c112633b6aad5d2e4c803f586c3287f33466c2ee2976905c767444739b66c0a4fab889706c967b3cac47fb7aa5f9094fee9a5a0abd53f5105",
+          "sha256": "6e8ec1ac8d97ec19ff061b6e277795a33be5a408d5abc72990141f6b957189a8",
+          "sha1": "ccf10a742f79f2bcc545a61189624ab579b22245",
+          "md5": "2c28619e400440733643e51db7a8e40d"
         }
       ]
     }
