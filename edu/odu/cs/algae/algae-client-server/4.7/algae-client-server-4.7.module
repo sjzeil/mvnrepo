@@ -27,11 +27,11 @@
         {
           "name": "algae-client-server-4.7.jar",
           "url": "algae-client-server-4.7.jar",
-          "size": 312903,
-          "sha512": "ab03d255a6ba1b8f411e911667b295b005dc9d090dd725761132409dfd4a6e74e98bd10bf09f94142c1113817868661abace0eb42ecceeab48eb9bfa174279d9",
-          "sha256": "9f222ab1d2845a5abe934fdbb8e4d2df05d305f88d88529712d1f737f44e7745",
-          "sha1": "d9ceb4843f41e76f6b6f7cdb2e3c2018702b1131",
-          "md5": "36cde03f5de9be131ea0e23e25c0410a"
+          "size": 440250,
+          "sha512": "4c1eac0d81c0192dc19008335ce030d99471bfd5395f685a9c799d59d4757f7d02470cbce2f59c8969318a88ece2d02131d823f07eb014b5305ddd157a28683d",
+          "sha256": "960b5cdc1e9c1e5886ea71e79a00cad44df9f72d036bd99e5899c0bc17b94971",
+          "sha1": "be4e0dfcdb167516122afac442522e0334202fec",
+          "md5": "b3d2e6ec4f5dfbb220661c0e0bb9c3bc"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "algae-client-server-4.7.jar",
           "url": "algae-client-server-4.7.jar",
-          "size": 312903,
-          "sha512": "ab03d255a6ba1b8f411e911667b295b005dc9d090dd725761132409dfd4a6e74e98bd10bf09f94142c1113817868661abace0eb42ecceeab48eb9bfa174279d9",
-          "sha256": "9f222ab1d2845a5abe934fdbb8e4d2df05d305f88d88529712d1f737f44e7745",
-          "sha1": "d9ceb4843f41e76f6b6f7cdb2e3c2018702b1131",
-          "md5": "36cde03f5de9be131ea0e23e25c0410a"
+          "size": 440250,
+          "sha512": "4c1eac0d81c0192dc19008335ce030d99471bfd5395f685a9c799d59d4757f7d02470cbce2f59c8969318a88ece2d02131d823f07eb014b5305ddd157a28683d",
+          "sha256": "960b5cdc1e9c1e5886ea71e79a00cad44df9f72d036bd99e5899c0bc17b94971",
+          "sha1": "be4e0dfcdb167516122afac442522e0334202fec",
+          "md5": "b3d2e6ec4f5dfbb220661c0e0bb9c3bc"
         }
       ]
     }
