@@ -27,11 +27,11 @@
         {
           "name": "cowem-plugin-1.22.6.jar",
           "url": "cowem-plugin-1.22.6.jar",
-          "size": 1611008,
-          "sha512": "d0e7ae4fff393516c6e3f046272dba63acc9a8465529010c32a8e26c6bc084bd42373fdf968eefc0572e83af376f00a9d79a8e95f641923e99f8d8ce1b1616fd",
-          "sha256": "78837bbf8f293188835e91da04cc3a1292b61d08835d55bcd6b9e67629b0c009",
-          "sha1": "4805fcddaae8cb6a3f64c484a0df881ff049d82c",
-          "md5": "1b2ce5361e9e15845da0f68184602ffe"
+          "size": 1610982,
+          "sha512": "dee15aa3de95ee98f95f259100d826ceb0c5840f033032e7e728a7ce4bf49d9698225ca0ec7c56032b529253124e6edddcb606dbefadf90ec1927def5a9b9f19",
+          "sha256": "aa2d39e1e36dae1ec853242714d3292a3524868bbe53669709e8197dbb44d717",
+          "sha1": "45a91cdfd6b7262a7726c44ff997149d30b36718",
+          "md5": "5909a67109c48aa4fcdb6d02135220df"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "cowem-plugin-1.22.6.jar",
           "url": "cowem-plugin-1.22.6.jar",
-          "size": 1611008,
-          "sha512": "d0e7ae4fff393516c6e3f046272dba63acc9a8465529010c32a8e26c6bc084bd42373fdf968eefc0572e83af376f00a9d79a8e95f641923e99f8d8ce1b1616fd",
-          "sha256": "78837bbf8f293188835e91da04cc3a1292b61d08835d55bcd6b9e67629b0c009",
-          "sha1": "4805fcddaae8cb6a3f64c484a0df881ff049d82c",
-          "md5": "1b2ce5361e9e15845da0f68184602ffe"
+          "size": 1610982,
+          "sha512": "dee15aa3de95ee98f95f259100d826ceb0c5840f033032e7e728a7ce4bf49d9698225ca0ec7c56032b529253124e6edddcb606dbefadf90ec1927def5a9b9f19",
+          "sha256": "aa2d39e1e36dae1ec853242714d3292a3524868bbe53669709e8197dbb44d717",
+          "sha1": "45a91cdfd6b7262a7726c44ff997149d30b36718",
+          "md5": "5909a67109c48aa4fcdb6d02135220df"
         }
       ]
     }
