@@ -27,11 +27,11 @@
         {
           "name": "code-grader-1.2.5.jar",
           "url": "code-grader-1.2.5.jar",
-          "size": 120716,
-          "sha512": "4a61a0b122c129b05f3aa901b699cb71b0e2d8ed02ba68b096e11c1275d5a1c35021b3f438a664984fcc9d2d0a4f177d12ff31df087274b93421ec42c84935de",
-          "sha256": "24837eb6d589869423071523f8053077e8701bab11b036c429a60526e02175e5",
-          "sha1": "400f73aa444c049259179b3ff61492d866b56ecc",
-          "md5": "5e5061f88909edd45c0af78798870db0"
+          "size": 121101,
+          "sha512": "e5d9e0014f64f289321b5b1213e7bf6c8a816b06e6f412c47c05bc45a5ea3dd7add4ff44b3a3f1b6dcb10a730febbf25b23ea7aedea0cf8c360c2c47134959d2",
+          "sha256": "5017b4c6ed08e0d101a5946b0ad108ece04d4e66073633824afa70653dbc5fa4",
+          "sha1": "b26053546fff009761942cbbcc4423a3a43cc153",
+          "md5": "a040f994623a3f8eeb48cfa29a28a7c6"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "code-grader-1.2.5.jar",
           "url": "code-grader-1.2.5.jar",
-          "size": 120716,
-          "sha512": "4a61a0b122c129b05f3aa901b699cb71b0e2d8ed02ba68b096e11c1275d5a1c35021b3f438a664984fcc9d2d0a4f177d12ff31df087274b93421ec42c84935de",
-          "sha256": "24837eb6d589869423071523f8053077e8701bab11b036c429a60526e02175e5",
-          "sha1": "400f73aa444c049259179b3ff61492d866b56ecc",
-          "md5": "5e5061f88909edd45c0af78798870db0"
+          "size": 121101,
+          "sha512": "e5d9e0014f64f289321b5b1213e7bf6c8a816b06e6f412c47c05bc45a5ea3dd7add4ff44b3a3f1b6dcb10a730febbf25b23ea7aedea0cf8c360c2c47134959d2",
+          "sha256": "5017b4c6ed08e0d101a5946b0ad108ece04d4e66073633824afa70653dbc5fa4",
+          "sha1": "b26053546fff009761942cbbcc4423a3a43cc153",
+          "md5": "a040f994623a3f8eeb48cfa29a28a7c6"
         }
       ]
     }
