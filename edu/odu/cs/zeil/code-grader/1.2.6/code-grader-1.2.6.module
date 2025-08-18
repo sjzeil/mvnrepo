@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "edu.odu.cs.zeil",
+    "module": "code-grader",
+    "version": "1.2.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "code-grader-1.2.6.jar",
+          "url": "code-grader-1.2.6.jar",
+          "size": 121152,
+          "sha512": "e9774bcf4f3f632d24b24f6c2bb54824fcc59f363e7072d99008a4bca55c61ab54efdf0193adbbacef973f0815c7da6dd928c3d918c0e99b4702384f82ae390a",
+          "sha256": "562864e8bba4f62faeb595b5603a5d03c2bae5f559146c5ff493a3dfc1530e1d",
+          "sha1": "f609a3d42c644413266060d90d487d30c4c899f2",
+          "md5": "83ab853e7a0f77ba75b8214b913835be"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.36"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-slf4j-impl",
+          "version": {
+            "requires": "2.23.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.23.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.23.1"
+          }
+        },
+        {
+          "group": "com.opencsv",
+          "module": "opencsv",
+          "version": {
+            "requires": "5.6"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.dataformat",
+          "module": "jackson-dataformat-yaml",
+          "version": {
+            "requires": "2.13.3"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jdk8",
+          "version": {
+            "requires": "2.13.3"
+          }
+        },
+        {
+          "group": "commons-cli",
+          "module": "commons-cli",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "code-grader-1.2.6.jar",
+          "url": "code-grader-1.2.6.jar",
+          "size": 121152,
+          "sha512": "e9774bcf4f3f632d24b24f6c2bb54824fcc59f363e7072d99008a4bca55c61ab54efdf0193adbbacef973f0815c7da6dd928c3d918c0e99b4702384f82ae390a",
+          "sha256": "562864e8bba4f62faeb595b5603a5d03c2bae5f559146c5ff493a3dfc1530e1d",
+          "sha1": "f609a3d42c644413266060d90d487d30c4c899f2",
+          "md5": "83ab853e7a0f77ba75b8214b913835be"
+        }
+      ]
+    }
+  ]
+}
