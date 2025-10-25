@@ -3,14 +3,14 @@
   "component": {
     "group": "edu.odu.cs",
     "module": "cowem-plugin",
-    "version": "1.22.6",
+    "version": "1.23.0",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "8.8"
+      "version": "8.14.3"
     }
   },
   "variants": [
@@ -19,19 +19,19 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
       "files": [
         {
-          "name": "cowem-plugin-1.22.6.jar",
-          "url": "cowem-plugin-1.22.6.jar",
-          "size": 1611063,
-          "sha512": "9840384e186d1d35fc3a4937fd84ffe69ed9436a90d3e68c8fdec10eee0e00cc333d53356f09848d5d81cee59e1988a44134937d1888e82e45f2ad6c3997a3e3",
-          "sha256": "ab0b30a03edb34c9d84a69bb39d2bac1c50fc4e409f1453247be962a812e04ed",
-          "sha1": "12f6125601229da41d84f3dbf19152fddd4958e6",
-          "md5": "44c12881e13e3730a1fbe9a85410627c"
+          "name": "cowem-plugin-1.23.0.jar",
+          "url": "cowem-plugin-1.23.0.jar",
+          "size": 1611757,
+          "sha512": "adc6aec0063101c4682b75a27a25789eac2350c865349271b360c132c7ef9c8e53e683adf840cc19dca239db6b1908b7e7621163303abfb690ff66edf1b3cfe9",
+          "sha256": "4c8f66850b4c7148d64861fe449b78399319c24434db0bbbc2499c5d3594c48d",
+          "sha1": "67ba5e84c140d440ca7cb0409d8f7f88eb8f62c1",
+          "md5": "43a47e0f31fbbcb7da926f5f23db0e38"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 17,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -83,13 +83,13 @@
       ],
       "files": [
         {
-          "name": "cowem-plugin-1.22.6.jar",
-          "url": "cowem-plugin-1.22.6.jar",
-          "size": 1611063,
-          "sha512": "9840384e186d1d35fc3a4937fd84ffe69ed9436a90d3e68c8fdec10eee0e00cc333d53356f09848d5d81cee59e1988a44134937d1888e82e45f2ad6c3997a3e3",
-          "sha256": "ab0b30a03edb34c9d84a69bb39d2bac1c50fc4e409f1453247be962a812e04ed",
-          "sha1": "12f6125601229da41d84f3dbf19152fddd4958e6",
-          "md5": "44c12881e13e3730a1fbe9a85410627c"
+          "name": "cowem-plugin-1.23.0.jar",
+          "url": "cowem-plugin-1.23.0.jar",
+          "size": 1611757,
+          "sha512": "adc6aec0063101c4682b75a27a25789eac2350c865349271b360c132c7ef9c8e53e683adf840cc19dca239db6b1908b7e7621163303abfb690ff66edf1b3cfe9",
+          "sha256": "4c8f66850b4c7148d64861fe449b78399319c24434db0bbbc2499c5d3594c48d",
+          "sha1": "67ba5e84c140d440ca7cb0409d8f7f88eb8f62c1",
+          "md5": "43a47e0f31fbbcb7da926f5f23db0e38"
         }
       ]
     }
